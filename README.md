@@ -15,3 +15,9 @@ A simple and effective web application to help GATE CSE aspirants track their pr
 - **Frontend:** React.js + Tailwind CSS
 - **Backend / Database:** Firebase Firestore
 - **Authentication:** Firebase Anonymous Auth
+
+
+## 🌐 Live Demo
+
+Check out the deployed version of the project:  
+🔗 [https://gate2026-prepration-tracker.netlify.app](https://gate2026-prepration-tracker.netlify.app/)
